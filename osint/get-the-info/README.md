@@ -29,7 +29,8 @@
 7. Searched for her contact details on her personal website, Instagram, and LinkedIn — no email address was publicly listed.
 8. Guessed the email format using her full name: `elenatchernomazova@gmail.com`.
 9. Submitted that email — and it turned out to be the **correct flag**.
-
+![TouchStone Gallery](image.png)
+![Elena Tchernomazova](image-1.png)
 ---
 
 ## 🏁 Flag
