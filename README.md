@@ -54,5 +54,4 @@ This repo is for **educational purposes only**.
 All challenges were solved in a legal environment.
 
 ---
-
-Made with ☕ and frustration by [@aaryanbhujang](https://github.com/aaryanbhujang)
+Made with ☕ and frustration by [@aaryanbhujang](https://github.com/aaryanbhujang) and [@rudrakshcharhate](https://github.com/iamRUDRAKSH)
