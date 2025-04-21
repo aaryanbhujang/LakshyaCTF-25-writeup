@@ -40,3 +40,9 @@ Maybe it's time to ask yourself: Does **** matters?
 
 ## 🏁 Flag
 size: LakshyaCTF{ObviouslyYes}
+
+
+## 🛠️ Tools Used
+
+- ExifTool  
+- Manual analysis and ASCII decoding  
