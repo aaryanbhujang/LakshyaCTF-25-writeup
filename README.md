@@ -6,29 +6,29 @@ Lakshya CTF organized by PICT CyberCell.
 
 ## 📁 Challenges
 - **Web Security**
-  - [x] [Echoes in the Code](web/echoes-in-the-code.md)
-  - [x] [Silent Vault](web/silent-vault.md)
+  - [x] [Echoes in the Code](web/echoes-in-the-code)
+  - [x] [Silent Vault](web/silent-vault)
 
 - **Reverse Engineering**
-  - [x] [Hello World](rev/hello-world.md)
-  - [x] [Flag Extraction](rev/flag-extraction.md)
+  - [x] [Hello World](rev/hello-world)
+  - [x] [Flag Extraction](rev/flag-extraction)
 
 - **Steganography**
-  - [x] [Does **** Matters ?](stego/does-matters.md)
-  - [x] [126 km west of Ostrov Beringa Island](stego/beringa-island.md)
+  - [x] [Does **** Matters ?](stego/does-matters)
+  - [x] [126 km west of Ostrov Beringa Island](stego/beringa-island)
 
 - **Miscellaneous**
-  - [x] [Krish made it easy now](misc/krish-made-it-easy.md)
-  - [x] [Hall of Echos](misc/hall-of-echos.md)
-  - [x] [Hidden Layers 'Macbeth'](misc/hidden-layers-macbeth.md)
+  - [x] [Krish made it easy now](misc/krish-made-it-easy)
+  - [x] [Hall of Echos](misc/hall-of-echos)
+  - [x] [Hidden Layers 'Macbeth'](misc/hidden-layers-macbeth)
 
 - **OSINT**
-  - [x] [Silent Witness](osint/silent-witness.md)
-  - [x] [Get the Info](osint/get-the-info.md)
+  - [x] [Silent Witness](osint/silent-witness)
+  - [x] [Get the Info](osint/get-the-info)
 
 - **Digital Forensics**
-  - [x] [Crackkk It](forensics/crackkk-it.md)
-  - [x] [QR Chronicles](forensics/qr-chronicles.md)
+  - [x] [Crackkk It](forensics/crackkk-it)
+  - [x] [QR Chronicles](forensics/qr-chronicles)
 
 ---
 
