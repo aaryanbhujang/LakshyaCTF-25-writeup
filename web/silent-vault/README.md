@@ -1,4 +1,4 @@
-![burp3](https://github.com/user-attachments/assets/2240803a-528c-4768-9f76-8456f54a1ae0)## 🔐 Silent Vault
+## 🔐 Silent Vault
 
 **Challenge Name:** Silent Vault  
 **Category:** Web Security  
