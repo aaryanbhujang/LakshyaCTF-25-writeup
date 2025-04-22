@@ -35,6 +35,7 @@ A minimal login-protected vault system. The objective: find the flag hidden behi
   ![burp2](https://github.com/user-attachments/assets/9fe2d80a-bf85-4fa0-b632-c518c44974d3)
 
 - Time to **enumerate hidden directories**. Used `gobuster` and found:
+![image](https://github.com/user-attachments/assets/55ea3582-6022-4f41-818e-cf402b3d24c3)
 
 - Accessed `/admin` using the same Bearer token — response confirmed:  
 ![burp3](https://github.com/user-attachments/assets/0f4fc55c-1f37-48c7-a3e9-8b350314d2ed)
