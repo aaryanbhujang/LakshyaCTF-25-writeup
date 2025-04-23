@@ -27,8 +27,8 @@ Lakshya CTF organized by PICT CyberCell.
   - [x] [Get the Info](osint/get-the-info)
 
 - **Digital Forensics**
-  - [x] [forensics/crackkk-it](https://github.com/aaryanbhujang/LakshyaCTF-25-writeup/tree/main/forensics/Crack%20It)
-  - [x] [QR Chronicles](forensics/qr-chronicles)
+  - [x] [crackkk it](https://github.com/aaryanbhujang/LakshyaCTF-25-writeup/tree/main/forensics/Crack%20It)
+  - [x] [QR Chronicles](https://github.com/aaryanbhujang/LakshyaCTF-25-writeup/tree/main/forensics/QR%20Chronicles)
 
 ---
 
