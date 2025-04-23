@@ -14,12 +14,11 @@ Lakshya CTF organized by PICT CyberCell.
   - [x] [Flag Extraction](rev/flag-extraction)
 
 - **Steganography**
-  - [x] [Does **** Matters ?](stego/does-matters)
-  - [x] [126 km west of Ostrov Beringa Island](stego/beringa-island)
-
+  - [x] [Does **** Matters ?](stego/Does%20size%20Matters)
+  - [x] [126 km west of Ostrov Beringa Island](stego/126km%20west)
 - **Miscellaneous**
-  - [x] [Krish made it easy now](misc/krish-made-it-easy)
-  - [x] [Hall of Echos](misc/hall-of-echos)
+  - [x] [Krish made it easy now](misc/krish-made-it-easy-now)
+  - [x] [Hall of Echos](misc/hall-of-echoes)
   - [x] [Hidden Layers 'Macbeth'](misc/hidden-layers-macbeth)
 
 - **OSINT**
@@ -27,8 +26,8 @@ Lakshya CTF organized by PICT CyberCell.
   - [x] [Get the Info](osint/get-the-info)
 
 - **Digital Forensics**
-  - [x] [crackkk it](https://github.com/aaryanbhujang/LakshyaCTF-25-writeup/tree/main/forensics/Crack%20It)
-  - [x] [QR Chronicles](https://github.com/aaryanbhujang/LakshyaCTF-25-writeup/tree/main/forensics/QR%20Chronicles)
+  - [x] [crackkk it](forensics/Crack%20It)
+  - [x] [QR Chronicles](forensics/QR%20Chronicles)
 
 ---
 
